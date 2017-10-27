@@ -1,4 +1,4 @@
-module.exports = class Marquee {
+class Marquee {
     constructor(options) {
         this.interval = options.interval || 2000
         this.duration = options.duration || 300
