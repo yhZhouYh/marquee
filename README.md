@@ -17,15 +17,17 @@
   </script>
 ```
 ##使用
+
 >new Marquee(options)
 
 ##options
-| options  | 含义         |
-| ---------|:-----------: | 
-| ele      | 绑定dom对象   |
-| duration | 停留时间      | 
-| interval | 间隔运动时间  |
-| direction | 'up'或者'down' |
+
+ options  | 含义         
+ ---------|-----------  
+ ele      | 绑定dom对象   
+ duration | 停留时间       
+ interval | 间隔运动时间  
+ direction | 'up'或者'down' 
 
 -参考vux marquee
 
